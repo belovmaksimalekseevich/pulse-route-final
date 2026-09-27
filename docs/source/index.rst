@@ -10,8 +10,7 @@
      на остановке с <b>плановым прибытием через 10–15 минут</b> — с вероятностью, интервалом, причиной и рекомендацией
      диспетчеру.</p>
      <div class="stats">
-       <div class="stat"><b>0.752</b><span>score потоковой модели</span></div>
-       <div class="stat"><b>64 с</b><span>MAE на test (baseline 93 с)</span></div>
+       <div class="stat"><b>0,96708</b><span>публичный score финального CSV Data Science</span></div>
        <div class="stat"><b>11–15 мин</b><span>плановый горизонт остановки</span></div>
        <div class="stat"><b>~100 мс</b><span>ML p50 на батч всех ТС</span></div>
      </div>
